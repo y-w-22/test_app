@@ -3,7 +3,7 @@ import tkinter
 import tkinter.filedialog
 from PIL import Image, ImageTk
 
-
+#フォルダ構成修正済
 class Model():
     # 画像処理前か画像処理後かを指定
     BEFORE = 1
